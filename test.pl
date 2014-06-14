@@ -1,4 +1,3 @@
-use Modern::Perl;
 use Test::More;
 use IPC::Open3;
 use Data::Dumper;
